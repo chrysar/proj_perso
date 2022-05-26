@@ -1,0 +1,37 @@
+h1 {
+color: rgb(255, 255, 255);
+text-align: center;
+
+font-style: oblique;
+}
+#coco {
+    background-color: rgb(128, 128, 128);
+    font-family: "Symbol Monotype";
+}
+.ecrit{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color:  rgba(45, 160, 255, 0.767);
+}
+.bordures{
+    border-style: inset dashed groove;
+}
+.class{
+    font-weight:bold ;
+    font-size: 2.3em;
+    text-decoration: underline;
+
+}
+a:hover{
+    background-color: #509cff;
+}
+#diff
+{
+    background-color: rgba(0, 225, 255, 0.678);
+}
+#diff2
+{
+    background-color: rgba(0, 225, 255, 0.616);
+}
